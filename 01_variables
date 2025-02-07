@@ -14,3 +14,4 @@ console.log(accountId);
 block and functional scope issue */
 
 console.table([accountId, accountEmail, accountPassword, accountCity, accountState])
+/*my first javascript tutorial*/
